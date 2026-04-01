@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "愛が灯る",
   "base_artist": "ロクデナシ",
-  "createdAt": "2026-04-01T15:45:08.549660Z",
+  "createdAt": "2026-04-01T17:03:56.511599Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,7 +35,7 @@
       "artist": "ロクデナシ",
       "has_synced": true,
       "path": "select/localdb_01_愛が灯る_ロクデナシ.lrc",
-      "repo_name": "_XeE2aEiPHk"
+      "repo_name": "YYRzS5EyYEM"
     },
     {
       "id": "localdb_2",
@@ -44,7 +44,7 @@
       "artist": "ロクデナシ",
       "has_synced": true,
       "path": "select/localdb_02_愛が灯る_ロクデナシ.lrc",
-      "repo_name": "YYRzS5EyYEM"
+      "repo_name": "_XeE2aEiPHk"
     }
   ]
 }
